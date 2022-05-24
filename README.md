@@ -2,6 +2,7 @@
 Recommendations using the clustering approach for user-based CF producing
 
 The goal of this project:
+
 1-	Split the data: 943 user and 1682 movies
 
 2-	From the users 200 is sending randomly test data and the remaining 743 for training data
